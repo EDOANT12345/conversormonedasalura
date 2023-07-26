@@ -30,6 +30,8 @@ Detalla cómo utilizar el proyecto. Proporciona ejemplos de código o comandos p
 
 Si es posible, proporciona ejemplos de uso en contextos prácticos.
 
+![https://github.com/EDOANT12345/conversormonedasalura/blob/main/menuprincipal.jpg](ruta/a/imagen1.jpg)
+
 ## Contribución
 
 Explica cómo los colaboradores pueden contribuir al proyecto.
@@ -41,7 +43,7 @@ Enumera las pautas para presentar problemas (issues) y cómo enviar solicitudes 
 
 Aquí puedes agregar capturas de pantalla o imágenes relevantes para tu proyecto:
 
-![Descripción de la imagen 1](ruta/a/imagen1.jpg)
+
 ![Descripción de la imagen 2](ruta/a/imagen2.jpg)
 ![Descripción de la imagen 3](ruta/a/imagen3.jpg)
 

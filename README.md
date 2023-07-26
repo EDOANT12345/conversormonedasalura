@@ -30,7 +30,7 @@ Detalla cómo utilizar el proyecto. Proporciona ejemplos de código o comandos p
 
 Si es posible, proporciona ejemplos de uso en contextos prácticos.
 
-![https://github.com/EDOANT12345/conversormonedasalura/blob/main/menuprincipal.jpg](ruta/a/imagen1.jpg)
+[https://github.com/EDOANT12345/conversormonedasalura/blob/main/menuprincipal.jpg]
 
 ## Contribución
 

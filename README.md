@@ -1,4 +1,4 @@
-# Conversor de Monedas Alura
+# Conversor de Monedas y Temperatura Alura
 Conversor de monedas y temperatura Alura JAVA
 
 # Título del Proyecto

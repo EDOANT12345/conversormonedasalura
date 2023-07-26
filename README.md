@@ -1,8 +1,8 @@
 # Conversor de Monedas Alura
-Conversor de monedas Alura JAVA
+Conversor de monedas y temperatura Alura JAVA
 
 # Título del Proyecto
-El presente proyecto consiste en un conversor básico de divisas y temperatura en lenguaje JAVA y el uso del paquete JAVA SWING. Tambien se hace el uso de polimorfismo y clases para obtener un codigo de más fácil uso.
+El presente proyecto consiste en un conversor básico de divisas y temperatura en lenguaje JAVA y el uso del paquete JAVA SWING. También se hace el uso de polimorfismo y clases para obtener un código de más fácil uso.
 
 ## Estado del Proyecto
 Este es un primer prototipo del proyecto de conversor el cual solo utiliza dos conversiones. Muchos más tipos de conversiones son posibles de agregar.
@@ -16,7 +16,7 @@ Este es un primer prototipo del proyecto de conversor el cual solo utiliza dos c
 
 
 ## Instalación
-Se ha configurado el codigo de este proyecto en 3 clases diferentes las cuales son main, ConversorTemperatura y ConversorDivisas por medio del uso del paquete JAVA SWING y los metodos JPANE, JFRAME y JLabel.
+Se ha configurado el código de este proyecto en 3 clases diferentes las cuales son main, ConversorTemperatura y ConversorDivisas por medio del uso del paquete JAVA SWING y los metodos JPANE, JFRAME y JLabel.
 ![Clases](https://github.com/EDOANT12345/conversormonedasalura/blob/main/clases.jpg)
 
 ## Uso
@@ -47,7 +47,6 @@ Luego de la conversión el codigo vuelve a preguntar si desea una nueva operaci�
 
 En caso negativo el programa finaliza operacion.
 ![Programaterminado](https://github.com/EDOANT12345/conversormonedasalura/blob/main/ProgramaTerminado.jpg)
-
 
 
 ## Contribución
